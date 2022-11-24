@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hafzan Holdings</title>
+    <link>https://ammanullah.github.io/hafzan01/categories/</link>
+    <description>Recent content in Categories on Hafzan Holdings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Jan 2021 11:33:57 +0600</lastBuildDate><atom:link href="https://ammanullah.github.io/hafzan01/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>awareness</title>
+      <link>https://ammanullah.github.io/hafzan01/categories/awareness/</link>
+      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
+      
+      <guid>https://ammanullah.github.io/hafzan01/categories/awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awarness</title>
+      <link>https://ammanullah.github.io/hafzan01/categories/awarness/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ammanullah.github.io/hafzan01/categories/awarness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
